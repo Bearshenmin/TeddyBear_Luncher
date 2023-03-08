@@ -1,5 +1,5 @@
 # TeddyBear外掛啟動器
-**[下載最新版](https://github.com/Bearshenmin/TeddyBear_Luncher/releases)**
+# **[下載最新版](https://github.com/Bearshenmin/TeddyBear_Luncher/releases)**
 
 **[官方網站](https://bearshenmin.github.io/)**
 

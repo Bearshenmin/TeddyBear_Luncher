@@ -8,5 +8,5 @@
 教學影片(製作中)
 # 開放原始碼授權與保護
 本軟體受到MIT License的保護
-[詳細資料](.github/LICENSE)
+[詳細資料](LICENSE)
 

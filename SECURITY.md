@@ -2,8 +2,7 @@
 
 ## 支持版本
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+目前以下版本還在支援中
 
 | Version | Supported          |
 | ------- | ------------------ |

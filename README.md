@@ -6,3 +6,6 @@
 **[官方網站](https://bearshenmin.github.io/)**
 
 教學影片(製作中)
+# 授權與保護
+本軟體受到MIT License的保護
+[詳細資料](https://opensource.org/license/mit)

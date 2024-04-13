@@ -1,7 +1,10 @@
 # TeddyBear外掛啟動器(已停止開發)
 # **[下載最新版(已停止開發)](https://github.com/Bearshenmin/TeddyBear_Luncher/releases)**
 
-![GitHub all releases](https://img.shields.io/github/downloads/bearshenmin/TeddyBear_Luncher/total)
+
+<img alt="GitHub Downloads (all assets, latest release)" src="https://img.shields.io/github/downloads/Bearshenmin/TeddyBear_Luncher/latest/total">
+
+
 
 **[官方網站](https://bearshenmin.github.io/)**
 
